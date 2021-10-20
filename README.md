@@ -11,3 +11,5 @@ So far, there are these projects:
     - [House Price Prediction](https://github.com/vanity-lost/Kaggle-Projects/tree/main/House%20Price%20Prediction)
   - Time Series Forecasting:
     - [Store Item Demand Forecasting Challenge](https://github.com/vanity-lost/Kaggle-Projects/tree/main/Store%20Item%20Demand%20Forecasting%20Challenge)
+  - Clustering:
+    - ...
